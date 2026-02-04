@@ -1,0 +1,9 @@
+{
+  "name": "Nexus-Alpha: Persistent CLI Agent",
+  "description": "A high-fidelity autonomous agent interface designed to integrate with a host system via a persistent local bridge. Features real-time system monitoring, automated task planning, and error remediation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
